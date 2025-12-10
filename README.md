@@ -1,5 +1,6 @@
-자세한 분석 설명은 블로그에 업로드 하였습니다.
-A detailed analysis explanation has been uploaded to the blog.
+## 📄 자세한 내용
+프로젝트 분석 과정은 블로그에 정리되어 있습니다.  
+아래 링크에서 확인해주세요.  
 
-https://velog.io/@applez/kaggle-01
-https://velog.io/@applez/kaggle-02
+👉 https://velog.io/@applez/kaggle-01  
+👉 https://velog.io/@applez/kaggle-02
